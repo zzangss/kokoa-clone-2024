@@ -1,3 +1,3 @@
 # Kokoa clone 2024 실습
 
-CSS got so much better!
+Learn basic HTML & CSS by clone coding
